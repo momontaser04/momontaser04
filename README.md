@@ -33,7 +33,7 @@
 
 
 ![LINQ](https://img.shields.io/badge/-LINQ-05122A?style=flat&logo=dotnet&logoColor=white)
-![Design Principles](https://img.shields.io/badge/-Design%20Principles-05122A?style=flat&logo=sketch&logoColor=white)
+![design patterns](https://img.shields.io/badge/-design%20Ppatterns-05122A?style=flat&logo=sketch&logoColor=white)
 ![SOLID Principles](https://img.shields.io/badge/-SOLID%20Principles-05122A?style=flat&logo=buffer&logoColor=white)
 
 
